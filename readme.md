@@ -2,6 +2,7 @@
 
 **Version:** 1.2.0  
 **Creator:** @lokii-git
+![2024-08-21 14_29_46-kali-linux-2024 2-virtualbox-amd64  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/d7132786-85d0-4f8c-b5d2-3c71dc107abb)
 
 ## Overview
 
